@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=CopyOfSpinWheelMain2
+comment1.params=primaryStage
+comment1.target=void\ start(javafx.stage.Stage)
+comment2.params=wheelGroup
+comment2.target=void\ spinWheel(javafx.scene.Group)
+comment3.params=currentStage
+comment3.target=void\ openNextSpinWheelWindow(javafx.stage.Stage)
+comment4.params=args
+comment4.target=void\ main(java.lang.String[])
+numComments=5
